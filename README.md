@@ -1,5 +1,3 @@
-Sure! Here's the copy-paste-friendly `README.md` content for your GitHub repository:
-
 ```markdown
 # 🐂 Alpaca Paper Trading Script
 
